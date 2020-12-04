@@ -1,0 +1,1 @@
+when you want to commit something in your branch, be sure to be in your branch. Add -u parameter to set-upstream
